@@ -1,13 +1,12 @@
-# GitHub Portfolio Project: Data Science Salaries Analysis 2023 💸
+# Data Science Salaries Analysis 2023 💸
 - [Jupyter Notebook](https://github.com/georgemcculloch/datasalaries/blob/main/data%20salaries.ipynb)
 - [Dataset](https://github.com/georgemcculloch/datasalaries/blob/main/ds_salaries.csv)
-- [Dataset Visualisations](123.com)
+- [Dataset Visualisations](https://github.com/georgemcculloch/datasalaries/tree/main/images)
 
 
-Description:
 This project focuses on analyzing and visualizing data science salaries in the year 2023. The dataset contains information about various data science fields, including job titles, salary amounts, currencies, experience levels, employment types, remote work ratios, and company locations. The project aims to explore salary distributions, identify trends based on experience and job titles, and examine the impact of factors such as employment type and remote work on salaries.
 
-Project Goals:
+# Project Goals:
 
 - Data Exploration: Perform exploratory data analysis to understand the structure of the dataset, identify any missing values or outliers, and gain insights into salary distributions.
 - Salary Analysis: Analyze salary ranges for different data science job titles and experience levels. Identify high-paying roles and examine the relationship between salaries and other variables such as currency and employee residence.
@@ -16,7 +15,7 @@ Project Goals:
 - Company Location Analysis: Analyze the geographical distribution of data science job opportunities and compare salaries across different company locations.
 - Data Visualization: Create visually appealing and informative plots, charts, and interactive visualizations to present the findings from the salary analysis.
 
-Skills and Tools Utilized:
+# Skills and Tools Utilized:
 
 - Python: Pandas, NumPy, Matplotlib, Seaborn for data manipulation, analysis, and visualization.
 - Jupyter Notebook: Provide a clear and reproducible analysis workflow.
