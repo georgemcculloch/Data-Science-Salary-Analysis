@@ -4,7 +4,7 @@
 - [Dataset Visualisations](https://github.com/georgemcculloch/datasalaries/tree/main/images)
 
 
-Description:
+#Description:
 This project focuses on analyzing and visualizing data science salaries in the year 2023. The dataset contains information about various data science fields, including job titles, salary amounts, currencies, experience levels, employment types, remote work ratios, and company locations. The project aims to explore salary distributions, identify trends based on experience and job titles, and examine the impact of factors such as employment type and remote work on salaries.
 
 Project Goals:
