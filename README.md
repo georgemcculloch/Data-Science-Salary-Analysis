@@ -1,4 +1,4 @@
-# GitHub Portfolio Project: Data Science Salaries Analysis 2023 💸
+# Data Science Salaries Analysis 2023 💸
 - [Jupyter Notebook](https://github.com/georgemcculloch/datasalaries/blob/main/data%20salaries.ipynb)
 - [Dataset](https://github.com/georgemcculloch/datasalaries/blob/main/ds_salaries.csv)
 - [Dataset Visualisations](https://github.com/georgemcculloch/datasalaries/tree/main/images)
